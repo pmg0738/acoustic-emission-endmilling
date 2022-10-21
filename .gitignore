@@ -5,3 +5,12 @@ test/share/
 test/pyvenv.cfg
 test/.gitignore
 test/.ipynb_checkpoints/
+
+
+real/etc/
+real/Lib/
+real/Scripts/
+real/share/
+real/pyvenv.cfg
+real/.gitignore
+real/.ipynb_checkpoints/
