@@ -5,6 +5,7 @@ test/share/
 test/pyvenv.cfg
 test/.gitignore
 test/.ipynb_checkpoints/
+test/__pycache__
 
 
 real/etc/
@@ -14,3 +15,4 @@ real/share/
 real/pyvenv.cfg
 real/.gitignore
 real/.ipynb_checkpoints/
+real/__pycache__
