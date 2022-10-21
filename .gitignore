@@ -1,0 +1,7 @@
+test/etc/
+test/Lib/
+test/Scripts/
+test/share/
+test/pyvenv.cfg
+test/.gitignore
+test/.ipynb_checkpoints/
