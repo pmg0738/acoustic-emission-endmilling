@@ -68,7 +68,6 @@ def FFT(data_input, dt, window_F):
 
     return [fq_out, F_abs_amp_out]
 
-
 def data_split(t, x, split_t_r, overlap):
 
     split_data = []
